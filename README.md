@@ -1,1 +1,1 @@
-# Bangun
+Repository untuk latihan github.
