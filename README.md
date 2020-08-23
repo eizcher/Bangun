@@ -1,2 +1,3 @@
-Repository untuk latihan github.
-Menonton episode #1 sampai #3
+-Repository untuk latihan github.
+-Menonton episode #1 sampai #3
+-Mencoba Branch
